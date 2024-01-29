@@ -1,0 +1,36 @@
+body {
+  height: 90vh;
+  overflow: hidden;
+  margin: 0;
+}
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  width: 80vw;
+  margin: 50px auto;
+  display: flex;
+}
+
+.box {
+  background-size: auto 100%;
+  flex: 0.5;
+  background-position: center;
+  height: 80vh;
+  border-radius: 50px;
+  cursor: pointer;
+  background-repeat: no-repeat;
+  transition: flex 1s ease;
+  margin: 5px;
+}
+.active {
+  flex: 5;
+}
+
+@media screen and (max-width: 600px) {
+  .box:nth-child(4),
+  .box:nth-child(5) {
+    display: none;
+  }
+}
