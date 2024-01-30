@@ -23,3 +23,5 @@
 | Sıra | Kaynak Kod                                                                                                      | Durum        |
 | ---- | ---------------------------------------------------------------------------------------------------------------- | ------------ |
 | 01   | [Animasyonlu Kartlar](https://github.com/BilalAtesli/javascript_projects/tree/main/Projects/001-Animasyonlu_Kartlar) | Tamamlandı    |
+| 02  | [Animasyonlu İlerleme Adımları](https://github.com/BilalAtesli/JavaScript_Projects/tree/main/Projects/002-IlerlemeAdimlari) | Tamamlandı    |
+
