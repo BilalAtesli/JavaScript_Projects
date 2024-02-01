@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: tomato;
+}
+
+.search {
+  background-color: white;
+  position: relative;
+}
+.input {
+  height: 50px;
+  width: 35px;
+  border: none;
+  outline: none;
+  transition: width 0.4s ease;
+  padding-left: 15px;
+}
+.show-input {
+  width: 200px;
+}
+.btn {
+  background-color: white;
+  cursor: pointer;
+  padding: 20px;
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: none;
+  color: palevioletred;
+  transition: transform 0.4s ease;
+}
+.btn i {
+  font-size: 20px;
+}
