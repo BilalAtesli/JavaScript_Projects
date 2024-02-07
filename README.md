@@ -6,7 +6,7 @@
   <img src="https://skillicons.dev/icons?i=js" /> 
 </div>
 
-<h1 align="center">50 Gün 50 Proje</h1>
+
 
 ---
 
