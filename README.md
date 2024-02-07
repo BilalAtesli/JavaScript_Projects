@@ -11,7 +11,7 @@
 ---
 
 - **İçerik:**
-  - Bu repository tamamen proje bazlıdır ve özellikle yeni başlayanlar için temel projeler içermektedir. Toplamda 50 mini proje, HTML, CSS ve JavaScript ile ilgilidir. İlgili projelerin kaynak kodlarına aşağıdaki "Projeler" tablosunu üzerinden rahatlıkla ulaşabilirsiniz.
+  - Bu repository tamamen proje bazlıdır ve özellikle yeni başlayanlar için temel projeler içermektedir.İlgili projelerin kaynak kodlarına aşağıdaki "Projeler" tablosunu üzerinden rahatlıkla ulaşabilirsiniz.
 
 - **Düzen:**
   - Projeler klasör, klasör toplanmış olup Projeler kısmında ilgili proje üzerine gelip kaynak kodlarına tıklayarak ulaşabilirsiniz.
